@@ -1,0 +1,2 @@
+XCDDOS :: Server 1 : ✓
+XCDDOS :: Server 2 : Err Not Found
